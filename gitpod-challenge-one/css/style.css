@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    text-align: center;
+
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 1.2em;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+    padding: 0.6em;
+}
+
+.card {
+    width: 20%;
+    text-align: center;
+}
+.card img {
+    width: 100%;
+}
